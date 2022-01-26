@@ -14,7 +14,7 @@
     document.body.classList.remove(darkMode ? classNameLight : classNameDark)
   }
 
-  var preferDarkQuery = '(prefers-color-scheme: dark)'
+  var preferDarkQuery = '(prefers-color-scheme: light)'
   var mql = window.matchMedia(preferDarkQuery)
   var supportsColorSchemeQuery = mql.media === preferDarkQuery
   var localStorageTheme = null
