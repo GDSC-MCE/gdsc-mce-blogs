@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'GDSC MCE',
-  domain: 'https://gdsc-mce-blogs.vercel.app/',
+  domain: 'gdsc-mce-blogs.vercel.app',
   author: 'GDSC MCE',
 
   // open graph metadata (optional)
