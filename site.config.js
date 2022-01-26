@@ -7,12 +7,12 @@ module.exports = {
   rootNotionSpaceId: '62afb492-4552-46e2-a01d-78d41ba73f51',
 
   // basic site info (required)
-  name: 'GDSC MCE',
+  name: 'GDSC MCE Blogs',
   domain: 'gdsc-mce-blogs.vercel.app',
   author: 'GDSC MCE',
 
   // open graph metadata (optional)
-  description: 'GDSC MCE Blog Website',
+  description: 'Google Developer Student Club MCE is a community for the students interested in Google developer technologies. Students from any course with an interest in growing as a developer are welcome. By joining a GDSC MCE, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.',
   socialImageTitle: 'GDSC MCE',
   socialImageSubtitle: 'Hello World! 👋',
 
