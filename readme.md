@@ -24,7 +24,7 @@ Google Developer Student Clubs (DSC) are community groups for students from any 
 
 ### Sign Up To Our Chapter Today
 
-[Join GDSC MCE](bit.ly/gdsc-mce-chapter-join)
+[Join GDSC MCE](bit.ly/gdsc-mce-chapter-signup)
 [Join Our Whatsapp Group](bit.ly/gdsc-mce-whcg) 
 > Password is gdscmce.
 [Check out our website](https://gdscmce-main.web.app/) 
