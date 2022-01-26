@@ -9,7 +9,10 @@ export default class MyDocument extends Document {
         <Html lang='en'>
           <Head>
             <link rel='shortcut icon' href='/favicon.png' />
-
+            <meta property="og:image" content="https://i.ibb.co/k5CqmCB/examplepic.png">
+            <meta property="og:image:type" content="image/jpeg">
+            <meta property="og:image:width" content="200">
+            <meta property="og:image:height" content="200"></meta>
             <link
               rel='apple-touch-icon'
               sizes='180x180'
