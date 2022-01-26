@@ -7,7 +7,7 @@
 
 # GDSC MCE Blogs
 
-This repo is what GDSC MCE uses to power their blogging website [gdsc-mce-blogs](https://gdsc-mce-blogs.com).
+This repo is what GDSC MCE uses to power their blogging website [gdsc-mce-blogs](https://gdsc-mce-blogs.vercel.app).
 
 It uses Notion as a CMS, fetching content from Notion and then uses [Next.js](https://nextjs.org/) and [react-notion-x](https://github.com/NotionX/react-notion-x) to render everything.
 
