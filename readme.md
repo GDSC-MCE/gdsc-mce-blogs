@@ -4,7 +4,8 @@
     <img alt="Example article page" src="https://i.ibb.co/k5CqmCB/examplepic.png" width="689">
   </a>
 </p>
-#GDSC MCE Blogs
+
+# GDSC MCE Blogs
 
 This repo is what GDSC MCE uses to power their blogging website [gdsc-mce-blogs](https://gdsc-mce-blogs.com).
 
