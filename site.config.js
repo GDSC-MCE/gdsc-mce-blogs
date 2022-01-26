@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: 'GDSC MCE',
-  domain: 'gdsc-mce',
+  domain: 'https://gdsc-mce-blogs.vercel.app/',
   author: 'GDSC MCE',
 
   // open graph metadata (optional)
   description: 'GDSC MCE Blog Website',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'GDSC MCE',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
